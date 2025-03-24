@@ -1,11 +1,9 @@
 #include <iostream>
 using namespace std;
-//this is just a test file to try and figure out how to commit files on github
+//removed all comments test 
 int main()
 {
-    //really just add the fucking commitsz
  int a,b;
  cin >>a >>b;
- // test maybe
- //just add the fuckass commit bro
+
 }
