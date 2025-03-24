@@ -1,9 +1,6 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
-//removed all comments test 
-int main()
+void lol(int a)
 {
- int a,b;
- cin >>a >>b;
-
+    a+=4;
 }
